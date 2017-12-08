@@ -11,4 +11,8 @@
  "url": "../htdocs/assets/png/SokobanClone_byVellidragon.png",
  "type": "text/css"
  }
+ "/sokoban.js": {
+ "url": "../htdocs/js/sokoban.js",
+  "type": "text/js"
+  }
  }
